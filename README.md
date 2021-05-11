@@ -16,16 +16,22 @@ Isolpro is the static web site for E-commerce Page
 ## Screenshots
 
 ### Best sales
-1. ![](Screenshots/Home.png) 
-2. ![](Screenshots/Home2.png) 
+1. 
+![](Screenshots/Home.png) 
+3. 
+![](Screenshots/Home2.png) 
 
 ### Hot Deals
-3. ![](Screenshots/Hot_Deals.png)
+3. 
+![](Screenshots/Hot_Deals.png)
 
 ### New Arrival 
+4.
+![](Screenshots/New_Arrival.png) 
 
-4. ![](Screenshots/New_Arrival.png) 
-
+### Accessories & Parts
+5.
+![]((Screenshots/Accessories.png)
 
 ## Link
 [IsolPro Website](https://malisumit86.github.io/IsolProwebsite/)

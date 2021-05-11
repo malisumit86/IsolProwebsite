@@ -31,7 +31,7 @@ Isolpro is the static web site for E-commerce Page
 
 ### Accessories & Parts
 5.
-![]((Screenshots/Accessories.png)
+![](Screenshots/Accessories.png)
 
 ## Link
 [IsolPro Website](https://malisumit86.github.io/IsolProwebsite/)

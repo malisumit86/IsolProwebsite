@@ -18,14 +18,15 @@ Isolpro is the static web site for E-commerce Page
 ### Best sales
 1. 
 ![](Screenshots/Home.png) 
-3. 
+### Hot Deals
+2. 
 ![](Screenshots/Home2.png) 
 
-### Hot Deals
+### New Arrival 
 3. 
 ![](Screenshots/Hot_Deals.png)
 
-### New Arrival 
+###Popular
 4.
 ![](Screenshots/New_Arrival.png) 
 

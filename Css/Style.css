@@ -410,7 +410,7 @@ body {
 .part_product_right {
     margin-top: 20px;
     width: 700px;
-    height: 680px;
+    min-height: 680px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
